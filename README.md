@@ -1,7 +1,7 @@
 ==================================================================
-Data Cleaning Scripts for Smartphones Dataset
-Version 0.0
-##by calreticulin
+Data Cleaning Scripts for Smartphones Dataset  
+Version 0.0  
+by calreticulin
 
 The submission includes following
 =========================================
